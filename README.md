@@ -37,7 +37,7 @@ The dataset encapsulates a comprehensive collection of 271,116 entries across 17
 
 ## Repository Structure
 
-### Notebook 1: EDA, Statistical Analysis, and Data Visualization
+### Notebook 1: Project_Olympics
 The first notebook in this repository is dedicated to a comprehensive EDA, Statistical Analysis, and vivid Data Visualization. The analysis pivots around several pivotal questions:
 
 - What is the distribution of athletes, sports, and nations throughout the Olympic history?
@@ -46,7 +46,7 @@ The first notebook in this repository is dedicated to a comprehensive EDA, Stati
   
 This initial analysis sets the stage for a deeper understanding of the dataset, providing a foundation for the subsequent, more focused inquiries.
 
-### Notebook 2: Impact of Hosting the Olympics on Medal Performance
+### Notebook 2: Olympics_Hypothesis
 The second notebook takes a more targeted approach, exploring the influence of hosting the Olympics on a nation's performance, specifically in the context of medal tallies. The analysis unfolds through a series of methodical steps:
 
 1. **Identification of Frequent Hosts**: Pinpointing countries that have hosted the Olympics at least twice, recognizing their unique position in the dataset.
